@@ -1,0 +1,24 @@
+-> Item Based Recommendation for: 'Up in Smoke (1978)' (Best 10): 
+Movie: 'Big Green, The (1995)'-54
+Movie: 'Wild Bunch, The (1969)'-596
+Movie: 'Further Gesture, A (1996)'-1724
+Movie: 'Tashunga (1995)'-1103
+Movie: 'Roustabout (1964)'-3542
+Movie: 'End of Violence, The (1997)'-3450
+Movie: 'Smashing Time (1967)'-3165
+Movie: 'Ape, The (1940)'-2990
+Movie: 'Time of the Gypsies (Dom za vesanje) (1989)'-2863
+Movie: 'At First Sight (1999)'-2377
+
+=============================================================
+-> User Based Recommendation for userId: 3713 (Best 10): 
+Movie: 'Stop Making Sense (1984s)'-2791
+Movie: 'Thomas Crown Affair, The (1999)'-2695
+Movie: 'Billy's Hollywood Screen Kiss (1997)'-1961
+Movie: 'Snow White and the Seven Dwarfs (1937)'-591
+Movie: 'Scout, The (1994)'-525
+Movie: 'Hippie Revolution, The (1996)'-849
+Movie: 'Seven Years in Tibet (1997)'-1577
+Movie: 'Homeward Bound II: Lost in San Francisco (1996)'-606
+Movie: 'Shallow Grave (1994)'-317
+Movie: 'Mass Appeal (1984)'-2329
